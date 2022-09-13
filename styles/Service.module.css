@@ -1,0 +1,22 @@
+.container {
+  margin-top: 80px;
+}
+.service {
+  text-align: center;
+  color: #642dff;
+}
+.health {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 60px;
+}
+.card {
+  margin: 15px;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: rgb(255, 255, 255);
+}
+.card p {
+  padding-right: 50px;
+}

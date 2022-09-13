@@ -1,0 +1,21 @@
+.mic {
+    color: #642DFF;
+}
+
+.header {
+    margin-top: 50px;
+    font-size: 70px;
+
+}
+.health {
+    color: #2D89FF;
+}
+.counter {
+    margin-top: 10%;
+    text-align: center;
+    color: #642DFF;
+}
+.checked {
+    
+    margin-bottom: 0;
+}
